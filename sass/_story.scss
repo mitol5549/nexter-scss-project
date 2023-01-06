@@ -24,10 +24,11 @@
 
   &__img--2 {
     width: 115%;
-    grid-row: 4 / 6;
-    grid-column: 4 / 7;
     z-index: 20;
     box-shadow: 0 2rem 5rem rgba(#000, 0.2);
+
+    grid-row: 4 / 6;
+    grid-column: 4 / 7;
   }
 
   &__content {
